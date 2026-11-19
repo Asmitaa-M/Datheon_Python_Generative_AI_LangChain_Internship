@@ -1,0 +1,26 @@
+Priya Ramanathan
+Email: priya.ramanathan@example.com | Phone: +91 98765 43210
+Location: Chennai, Tamil Nadu, India
+
+SUMMARY
+Backend developer with 3 years of experience building REST APIs and data pipelines in Python.
+
+SKILLS
+Python, SQL, FastAPI, Docker, Git
+
+EDUCATION
+B.E. | Computer Science | Anna University | 2018 - 2022
+
+WORK EXPERIENCE
+Software Engineer | Tamarind Technologies | Chennai | Jul 2022 - Present
+- Built REST APIs serving 50+ internal tools
+- Reduced report generation time by migrating batch jobs to Docker containers
+Junior Developer | Kaveri Labs | Coimbatore | Jan 2022 - Jun 2022
+- Wrote unit tests and fixed bugs in a Flask application
+
+PROJECTS
+Expense Tracker | Technologies: Python, Flask, SQLite
+- Web app to record and categorise personal expenses with monthly charts
+
+CERTIFICATIONS
+Python for Data Science | Coursera | 2023

@@ -1,0 +1,5 @@
+# Versions below are the ones this project was developed and tested with.
+google-genai>=3.3.0,<4
+pydantic>=2.14,<3
+python-dotenv>=1.2,<2
+pytest>=9.0,<10
