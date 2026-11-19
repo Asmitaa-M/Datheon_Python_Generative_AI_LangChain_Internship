@@ -1,0 +1,10 @@
+Solar Energy Overview
+
+Solar panels convert sunlight into electricity using photovoltaic cells made from silicon.
+When photons strike the cell, they free electrons and create a direct electric current.
+An inverter then converts this direct current into alternating current for use in homes.
+
+Efficiency and Storage
+
+Typical commercial solar panels reach an efficiency of about 20 percent. Batteries store
+surplus electricity produced during the day so that it can be used at night.

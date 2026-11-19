@@ -1,0 +1,6 @@
+[server]
+# Keep in sync with MAX_UPLOAD_MB in .env (the app also validates this server-side).
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
