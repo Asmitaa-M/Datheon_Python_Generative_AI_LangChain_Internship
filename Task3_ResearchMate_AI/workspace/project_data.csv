@@ -1,0 +1,13 @@
+project_id,project_name,category,score,status
+P001,Customer Support Chatbot,NLP,82,Completed
+P002,Fraud Detection Model,Machine Learning,91,Completed
+P003,Demand Forecasting,Time Series,76,Completed
+P004,Document Summarizer,NLP,88,Completed
+P005,Image Defect Inspection,Computer Vision,84,In Review
+P006,Recommendation Engine,Machine Learning,79,Completed
+P007,Voice Assistant Prototype,Speech,68,In Progress
+P008,Churn Prediction,Machine Learning,86,Completed
+P009,Medical Report Classifier,NLP,73,In Review
+P010,Warehouse Robot Navigation,Robotics,71,In Progress
+P011,Sentiment Dashboard,NLP,90,Completed
+P012,Predictive Maintenance,Time Series,81,Completed

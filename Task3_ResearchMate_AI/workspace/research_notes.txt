@@ -1,0 +1,26 @@
+RESEARCH NOTES - AI & TECHNOLOGY (working draft)
+
+1. Agentic AI and tool-calling LLMs
+   - How autonomous agents plan, call tools and recover from errors.
+   - Open question: reliable evaluation of multi-step agent behaviour.
+   - Follow up: function-calling benchmarks and agent frameworks.
+
+2. Retrieval-Augmented Generation (RAG)
+   - Hybrid search (keyword + vector) and re-ranking to reduce hallucinations.
+   - Need recent comparisons of long-context models versus RAG pipelines.
+
+3. Small language models and on-device AI
+   - Running 1-8B parameter models on laptops and phones with NPUs.
+   - Interested in quantization techniques and energy efficiency.
+
+4. AI regulation and governance
+   - EU AI Act implementation timeline and obligations for general-purpose models.
+   - Comparing approaches to AI safety rules in the US, EU and India.
+
+5. Quantum computing progress
+   - Error-corrected logical qubits and realistic timelines for useful applications.
+
+6. AI safety and prompt-injection defences
+   - Protecting LLM agents that read untrusted web pages and documents.
+
+TODO: pick the two most promising topics for the literature review due next month.
